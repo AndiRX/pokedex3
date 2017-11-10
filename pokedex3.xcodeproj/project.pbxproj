@@ -19,6 +19,7 @@
 		4B1B90421FB650B900C18E5C /* Pokemon Hollow.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B1B90401FB650B900C18E5C /* Pokemon Hollow.ttf */; };
 		4B1B90431FB650B900C18E5C /* Pokemon Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B1B90411FB650B900C18E5C /* Pokemon Solid.ttf */; };
 		4B1B90481FB653AA00C18E5C /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B1B90471FB653AA00C18E5C /* music.mp3 */; };
+		4B1B904A1FB66EB700C18E5C /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1B90491FB66EB700C18E5C /* PokemonDetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		4B1B90401FB650B900C18E5C /* Pokemon Hollow.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pokemon Hollow.ttf"; sourceTree = "<group>"; };
 		4B1B90411FB650B900C18E5C /* Pokemon Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pokemon Solid.ttf"; sourceTree = "<group>"; };
 		4B1B90471FB653AA00C18E5C /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
+		4B1B90491FB66EB700C18E5C /* PokemonDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				4B1B90261FB612A200C18E5C /* ViewController.swift */,
+				4B1B90491FB66EB700C18E5C /* PokemonDetailVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 				4B1B903D1FB623BA00C18E5C /* PokeCell.swift in Sources */,
 				4B1B90271FB612A200C18E5C /* ViewController.swift in Sources */,
 				4B1B90251FB612A200C18E5C /* AppDelegate.swift in Sources */,
+				4B1B904A1FB66EB700C18E5C /* PokemonDetailVC.swift in Sources */,
 				4B1B903A1FB6188700C18E5C /* Pokemon.swift in Sources */,
 				4B1B903F1FB6488500C18E5C /* csv.swift in Sources */,
 			);
