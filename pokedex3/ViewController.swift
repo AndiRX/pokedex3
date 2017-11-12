@@ -27,7 +27,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         collection.dataSource = self
         searchBar.delegate = self
         parsePokemonCSV()
-        initAudio()
+       // initAudio()
         
         searchBar.returnKeyType = UIReturnKeyType.done
         searchBar.enablesReturnKeyAutomatically = false
